@@ -26,3 +26,4 @@
 	}
  }
 // The enemy is pulled towards the player, but it won't stop
+//Also, Thrasher was the sprite I used from the project. You can change it to Enemy
