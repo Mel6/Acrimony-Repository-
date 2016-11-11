@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 693b62618e14b2a4eb2936d9f0842047
+timeCreated: 1472496237
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game_Map_0
+    21300002: Game_Map_1
+    21300004: Game_Map_2
+    21300006: Game_Map_3
+    21300008: Game_Map_4
+    21300010: Game_Map_5
+    21300012: Game_Map_6
+    21300014: Game_Map_7
+    21300016: Game_Map_8
+    21300018: Game_Map_9
+    21300020: Game_Map_10
+    21300022: Game_Map_11
+    21300024: Game_Map_12
+    21300026: Game_Map_13
+    21300028: Game_Map_14
+    21300030: Game_Map_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_Map_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3631
+        width: 1253
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Map_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3191
+        width: 1240
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Map_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2765
+        width: 1243
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Map_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2343
+        width: 1240
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Map_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2151
+        width: 205
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Map_5
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 2173
+        width: 114
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Map_6
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 2045
+        width: 100
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Map_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1907
+        width: 114
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Map_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1879
+        width: 153
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Map_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1283
+        width: 743
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Map_10
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1643
+        width: 188
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Map_11
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1640
+        width: 211
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Map_12
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1448
+        width: 146
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Map_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 907
+        width: 516
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Map_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 907
+        width: 421
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Map_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 733
+        width: 1201
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
