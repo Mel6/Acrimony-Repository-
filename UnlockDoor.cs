@@ -32,6 +32,7 @@ public class UnlockDoor : MonoBehaviour {
 		if ((collision.gameObject.name == "Door") & gotKey == true){
 			Debug.Log ("Unlocked Door!"); //This is when the player has the key
 			Destroy (collision.gameObject);
+			gotKey = false;
 		}
 	}
 }
