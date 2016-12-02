@@ -24,6 +24,15 @@
 			transform.Translate (new Vector3 (Speed * Time.deltaTime, 0, 0));
 		}
 	}
- }
+     
+     void OnCollisionEnter2D (Collision2D collision) {
+		Debug.Log ("collision = " + collision.collider);
+
+		if (collision.gameObject.name == "Player") {
+			Debug.Log ("Player Dead");
+			Destroy (collision.gameObject);
+		}
+	} }
 // The enemy is pulled towards the player, but it won't stop
-//Also, Thrasher was the sprite I used from the project. You can change it to Enemy
+// Also, Thrasher was the sprite I used from the project. You can change it to Enemy
+// From the OnCollisionEnter2D part of the script, the player can die if they collide with the enemy
